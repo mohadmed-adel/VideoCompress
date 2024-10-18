@@ -1,7 +1,7 @@
 ## 3.1.3
 
 - Update build.gradle (@dharambudh1)
-- Bump up transcoder to 0.10.5 (@Ayman-Barghout)
+- Bump up transcoder to 0.11.1 (@Mohamed-adel)
 - Add AGP 8 support (@Zazo032)
 - Add missing import in 3.1.2 (@jamesdixon)
 - Bump to 3.1.2 (@jonataslaw)
